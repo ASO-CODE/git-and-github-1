@@ -1,0 +1,1 @@
+const welcomeAll = document.querySelector("#welcome");
